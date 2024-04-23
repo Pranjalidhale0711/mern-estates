@@ -40,13 +40,24 @@ True Homes is a real estate application designed to help users find their dream 
 
 ## Screenshots
 
-![Screenshot](Screenshot 2024-04-23 at 8.06.54 PM.png)
+## Screenshots
 
-![Screenshot] (Screenshot 2024-04-23 at 8.07.07 PM.png)
+<kbd>
+  <img src="/Users/pranjalidhale/Desktop" alt="Screenshot 1" width="400"/>
+</kbd>
 
-![Screenshot] (Screenshot 2024-04-23 at 8.07.26 PM.png)
+<kbd>
+  <img src="Screenshot%202024-04-23%20at%208.07.07%20PM.png" alt="Screenshot 2" width="400"/>
+</kbd>
 
-![Screenshot] (Screenshot 2024-04-23 at 8.10.49 PM.png)
+<kbd>
+  <img src="Screenshot%202024-04-23%20at%208.07.26%20PM.png" alt="Screenshot 3" width="400"/>
+</kbd>
+
+<kbd>
+  <img src="Screenshot%202024-04-23%20at%208.10.49%20PM.png" alt="Screenshot 4" width="400"/>
+</kbd>
+
 
 
 
