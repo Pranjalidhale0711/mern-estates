@@ -40,7 +40,7 @@ True Homes is a real estate application designed to help users find their dream 
 
 ## Screenshots
 
-## Screenshots
+
 
 <kbd>
   <img src="images/Screenshot 2024-04-23 at 8.06.54 PM.png" alt="Screenshot 1" width="400"/>
